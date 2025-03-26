@@ -1,0 +1,25 @@
+{
+  "name": "minimessegeboard-odinp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azsig/miniMessegeBoard-OdinP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Azsig/miniMessegeBoard-OdinP/issues"
+  },
+  "homepage": "https://github.com/Azsig/miniMessegeBoard-OdinP#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "express-async-handler": "^1.2.0"
+  }
+}
